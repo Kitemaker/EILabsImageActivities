@@ -51,5 +51,5 @@ Size_Y : Type = int
 Height of output file
 
 #### 3.2.2 Output
-ResizedImagePath: Type = int 
+ResizedImagePath: Type = string 
 Output file path
