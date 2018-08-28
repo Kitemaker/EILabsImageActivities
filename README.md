@@ -1,12 +1,12 @@
 # EILabsImageActivities
 Custom Activities for Image Processing  for UiPath RPA
 
-## 1	Package Name
+## 1.	Package Name
 EILabs.ImageActivities.1.0.0
-## 2	Description
+## 2.	Description
 This package contains two custom activities for image processing. These activities can be used in UiPath Studio for convert image from one format to other format and to resize image files. Custom activities have been created using Visual Studio 2017 and .Net Framework 4.5.2
 UiPath Studio version : 2018.2.3
-## 3	Activities
+## 3.	Activities
 ### 3.1	Convert Image
 This activity converts image into one format to another format. Supported formats are: JPG, BMP, PNG and GIF
 #### 3.1.1	Input
