@@ -1,4 +1,4 @@
-# EILabsImageActivities
+# EILabs Image Activities
 Custom Activities for Image Processing  for UiPath RPA
 
 ## 1.	Package Name
