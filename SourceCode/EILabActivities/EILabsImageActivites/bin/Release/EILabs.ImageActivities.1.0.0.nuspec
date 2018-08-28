@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>EILabs.ImageActivities</id>
+    <version>1.0.0</version>
+    <title>EILabs Image Activities</title>
+    <authors>Saleem Javed</authors>
+    <owners>EILabs</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>file:///C:/Users/sajaved/Pictures/Pickit/Pickit_PNG/analysis.png</iconUrl>
+    <description>activities for image processing 
+-Convert Image
+-Resize Image with abosolute size and percentage size</description>
+    <summary>activities for image processing</summary>
+    <releaseNotes>activities for image processing 
+-Convert Image
+-Resize Image with abosolute size and percentage size</releaseNotes>
+    <copyright>@Saleem Javed</copyright>
+    <language>es-US</language>
+    <tags>Image, Pixels</tags>
+  </metadata>
+  <files>
+    <file src="lib\EILabs.ImageActivities.dll" target="lib\EILabs.ImageActivities.dll" />
+  </files>
+</package>
