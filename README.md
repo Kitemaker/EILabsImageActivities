@@ -53,3 +53,6 @@ Height of output file
 #### 3.2.2 Output
 ResizedImagePath: Type = string 
 Output file path
+
+## 4. Video Tutorial
+https://youtu.be/NFu5VaTAuIM
